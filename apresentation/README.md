@@ -1,6 +1,6 @@
 # apresentation
 
-> Modulo Client-Side do projeto (aprensentação)
+> Aplicação representa a camada de apresentação da aplicação
 
 ## Build Setup
 

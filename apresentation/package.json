@@ -1,7 +1,7 @@
 {
   "name": "apresentation",
   "version": "1.0.0",
-  "description": "Modulo Client-Side do projeto (aprensentação)",
+  "description": "Aplicação representa a camada de apresentação da aplicação",
   "author": "Vinicius Cavalcanti",
   "private": true,
   "scripts": {
